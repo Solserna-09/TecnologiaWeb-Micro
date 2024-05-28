@@ -24,6 +24,7 @@ const ProyectoSchema = Schema({
         required: true
     },
 
+
     // TODO: RESTO DE LOS MODELOS
     
     fechaCreacion: {
